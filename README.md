@@ -1,4 +1,4 @@
-![Abubakar Siddique - WordPress Developer Banner](https://github.com/AbubakarSiddique/AbubakarSiddique/raw/main/A_banner_image_presents_Abubakar_Siddique's_profes.png)
+![Abubakar Siddique - WordPress Developer Banner](https://github.com/abu310/AbubakarSiddique/raw/main/A_banner_image_presents_Abubakar_Siddique's_profes.png)
 
 # 👋 Hi, I'm Abubakar Siddique
 
