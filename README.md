@@ -51,8 +51,9 @@ Desktop-based rental management system connected to Oracle DB.
 ## 🌍 Connect With Me
 
 💼 **Upwork:** [Hire Me on Upwork](https://www.upwork.com/freelancers/~014d8300b737b345c9)  
-💻 **GitHub:** [AbubakarSiddique](https://github.com/abu310)  
-💬 **Email:** abubakarsiddique.dev@gmail.com
+💻 **GitHub:** [AbubakarSiddique](https://github.com/abu310) 
+💬 **Email:** [abu741419@gmail.com](mailto:abu741419@gmail.com)
+
 
 ---
 
