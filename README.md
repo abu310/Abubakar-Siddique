@@ -1,4 +1,3 @@
-# Abubakar-Siddique
 # 👋 Hi, I'm Abubakar Siddique
 
 🚀 **WordPress Web Developer | Front-End Specialist | Elementor Expert**  
